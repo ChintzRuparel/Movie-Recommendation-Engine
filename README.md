@@ -33,4 +33,8 @@ This is where this piece of code becomes into an actual working recommendation e
 </li>
 </ul>
 
+<h1>Output 👇</h1>
+<img width="566" alt="Screenshot 2022-10-17 at 00 45 35" src="https://user-images.githubusercontent.com/51440734/196053703-e70c0443-c8b3-49c3-99cf-f7651b55c4eb.png">
+
+
 Data set - <a href="https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata">Movie Dataset</a>
