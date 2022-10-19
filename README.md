@@ -36,5 +36,14 @@ This is where this piece of code becomes into an actual working recommendation e
 <h1>Output 👇</h1>
 <img width="566" alt="Screenshot 2022-10-17 at 00 45 35" src="https://user-images.githubusercontent.com/51440734/196053703-e70c0443-c8b3-49c3-99cf-f7651b55c4eb.png">
 
+<h4>All development stages for this repository are completed!</h4>
 
-Data set - <a href="https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata">Movie Dataset</a>
+<h2>Snippet for Getting Recommendations</h2>
+
+```
+  print("Recommendations for Interstellar") <br>
+  print(get_recommendations("Interstellar", cosine_sim2)) <br>
+  print() <br>
+```
+
+<h2>All development stages for this repository are completed!</h2>
